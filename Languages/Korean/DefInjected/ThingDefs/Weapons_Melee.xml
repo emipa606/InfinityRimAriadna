@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--[자동생성] 림월드 모드 번역 도우미 v1.7 by 가람이예요-->
+<LanguageData>
+  <!--MeleeWeapon_APKnife-->
+  <MeleeWeapon_APKnife.label>장갑 관통 나이프</MeleeWeapon_APKnife.label>
+  <MeleeWeapon_APKnife.description>대검은 날의 길이가 짧아 병사들은 최후의 수단으로나 간주하곤 합니다. 하지만 이런 대검이라도 테슘을 두른 칼날이 달려있다면 놀라우리만치 치명적인 무기로 변합니다.</MeleeWeapon_APKnife.description>
+  <!--MeleeWeapon_APCCW-->
+  <MeleeWeapon_APCCW.label>장갑 관통 근접무기</MeleeWeapon_APCCW.label>
+  <MeleeWeapon_APCCW.description>종종 불필요한 물건으로 간주되곤 하지만, 검의 길을 따르는 자들은 가까운 거리라면 날카로운 칼날이 그 어떤 첨단 무기보다도 치명적일 수 있다는 걸 잘 압니다. 특히나 테슘으로 코팅된 칼날이라면 말입니다.</MeleeWeapon_APCCW.description>
+</LanguageData>

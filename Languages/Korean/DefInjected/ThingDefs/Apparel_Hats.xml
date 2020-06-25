@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--[자동생성] 림월드 모드 번역 도우미 v1.7 by 가람이예요-->
+<LanguageData>
+  <!--Apparel_SpetsnazBeret-->
+  <Apparel_SpetsnazBeret.label>스페츠나츠 베레모</Apparel_SpetsnazBeret.label>
+  <Apparel_SpetsnazBeret.description>바이저가 달린 베레모로, 아리아드나 스페츠나츠의 상징입니다.</Apparel_SpetsnazBeret.description>
+  <!--Apparel_CherkesskaHelmet-->
+  <Apparel_CherkesskaHelmet.label>체르케스카 헬멧</Apparel_CherkesskaHelmet.label>
+  <Apparel_CherkesskaHelmet.description>이 테슘제 헬멧은 대부분의 소화기 사격을 버텨낼 수 있습니다.</Apparel_CherkesskaHelmet.description>
+</LanguageData>

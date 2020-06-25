@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--[자동생성] 림월드 모드 번역 도우미 v1.7 by 가람이예요-->
+<LanguageData>
+  <!--Bullet_HeavyPistol-->
+  <Bullet_HeavyPistol.label>권총탄</Bullet_HeavyPistol.label>
+  <!--Gun_HeavyPistol-->
+  <Gun_HeavyPistol.label>중권총</Gun_HeavyPistol.label>
+  <Gun_HeavyPistol.description>중권총이라는 용어는 다양한 대구경 권총을 가리킵니다. 커다란 사냥감을 잡을 때 쓰거나 폐쇄된 지역에서 근접전 보조무기로 사용하곤 합니다.</Gun_HeavyPistol.description>
+  <!--Bullet_BoardingShotgun-->
+  <Bullet_BoardingShotgun.label>산탄</Bullet_BoardingShotgun.label>
+  <!--Gun_BoardingShotgun-->
+  <Gun_BoardingShotgun.label>승함용 산탄총</Gun_BoardingShotgun.label>
+  <Gun_BoardingShotgun.description>승함용 산탄총은 진공 상태를 비롯한 공기가 희박한 환경에서도 믿음직하게 작동하는 근접전 화기를 원한 우주군 강습 부대의 요구에 따라 제작되었습니다.</Gun_BoardingShotgun.description>
+  <!--Bullet_APRifle-->
+  <Bullet_APRifle.label>장갑 관통 소총탄</Bullet_APRifle.label>
+  <!--Gun_APRifle-->
+  <Gun_APRifle.label>장갑 관통 소총</Gun_APRifle.label>
+  <Gun_APRifle.description>장갑 관통탄은 보통 가볍우면서도 변형에 매우 강하며, 아주 값비싼 신소재인 테슘으로 제작됩니다. 그야말로 장갑 관통탄에 딱 맞는 소재라 할 수 있습니다. 소총같은 소화기로도 효과적인 장갑 관통탄을 운용할 수 있게 된 건 오로지 테슘 덕입니다.</Gun_APRifle.description>
+  <!--Bullet_APSniperRifle-->
+  <Bullet_APSniperRifle.label>저격소총탄</Bullet_APSniperRifle.label>
+  <!--Gun_APSniperRifle-->
+  <Gun_APSniperRifle.label>장갑 관통 저격 소총</Gun_APSniperRifle.label>
+  <Gun_APSniperRifle.description>아리아드나인의 고향 행성 던에 배치된 모든 병사들은 아리아드나 저격수를 두려워해야 한다는 걸 깨닫게 됩니다. 장갑 관통탄을 운용할 수 있는 저격 소총이 널리 보급된 덕에 중장갑을 두른 기갑 부대조차 안전할 수 없기 때문입니다. 외세의 병력들은 병력은 조금이라도 틈을 주면 이 무시무시한 무기의 목표물이 될 수 있다는 걸 압니다. 그렇게 된다면 그들이 마지막으로 느끼는 건 탄환이 방탄복을 녹은 버터가르듯 뚫고 들어오는 감각뿐일 겁니다.</Gun_APSniperRifle.description>
+  <!--Bullet_AssaultPistol-->
+  <Bullet_AssaultPistol.label>권총탄</Bullet_AssaultPistol.label>
+  <!--Gun_AssaultPistol-->
+  <Gun_AssaultPistol.label>돌격 권총</Gun_AssaultPistol.label>
+  <Gun_AssaultPistol.description>돌격 권총은 재래식 전술 권총이 진화한 형태입니다. 크기는 작고 무게는 가볍지만 관통력이 높고 장탄량이 많은 데다 완전 자동 사격이 가능하기에 근거리 전투에서는 최고의 선택입니다.</Gun_AssaultPistol.description>
+  <!--Bullet_Molotok-->
+  <Bullet_Molotok.label>장갑 관통탄</Bullet_Molotok.label>
+  <!--Gun_Molotok-->
+  <Gun_Molotok.label>몰로톡</Gun_Molotok.label>
+  <Gun_Molotok.description>몰로톡(러시아어로 "망치")는 짧은 총열에 접이식 개머리판, 가벼운 탄약에 적합한 약실을 지닌 단축형 경기관총입니다. 공수부대와 특수부대의 요구 사항에 따라 제작된 지원화기입니다.</Gun_Molotok.description>
+  <!--Bullet_Ohotnik-->
+  <Bullet_Ohotnik.label>저격 소총탄</Bullet_Ohotnik.label>
+  <!--Gun_Ohotnik-->
+  <Gun_Ohotnik.label>오호트닉</Gun_Ohotnik.label>
+  <Gun_Ohotnik.description>오호트닉은 아리아드나의 대형 사냥용 소총입니다. 재래식 돌격소총보다 강력하지만 연사속도는 느립니다. 오호트닉의 장점은 바로 테슘제 장갑 관통탄입니다.</Gun_Ohotnik.description>
+  <!--Bullet_ChainRifle-->
+  <Bullet_ChainRifle.label>사슬 조각</Bullet_ChainRifle.label>
+  <!--Gun_ChainRifle-->
+  <Gun_ChainRifle.label>체인 소총</Gun_ChainRifle.label>
+  <Gun_ChainRifle.description>체인 소총은 기다란 쇠사슬을 탄약으로 사용하며, 전기 메커니즘을 이용해 붉게 달아오른 파편을 흩뿌립니다. 제대로 된 훈련을 받지 못한 제 3세계 민병대를 위해 설계된 무기로 그 넓은 사격각은 빗맞칠 일이 없는 근거리에서 파괴적인 위력을 발휘합니다. 낮은 제작 비용과 치명적인 효율성으로 인해 이 무기는 전 세계의 분쟁에서 큰 성공을 거두었습니다.</Gun_ChainRifle.description>
+  <!--Bullet_Hishchnik-->
+  <Bullet_Hishchnik.label>기관총탄</Bullet_Hishchnik.label>
+  <!--Gun_Hishchnik-->
+  <Gun_Hishchnik.label>히쉬치니크</Gun_Hishchnik.label>
+  <Gun_Hishchnik.description>아리아드나의 제식 기관총으로 유명한 아크노비 히쉬치니크(러시아어로 "포식자")는 "모든 지원 화기의 어머니"로 칭송받습니다. 사거리와 파괴력, 높은 연사속도가 결합되어 이 기관총은 어떤 전장에서나 의지할 수 있는 힘이 됩니다.</Gun_Hishchnik.description>
+  <!--Bullet_MissileLauncher-->
+  <Bullet_MissileLauncher.label>미사일</Bullet_MissileLauncher.label>
+  <!--Gun_MissileLauncher-->
+  <Gun_MissileLauncher.label>미사일 발사기</Gun_MissileLauncher.label>
+  <Gun_MissileLauncher.description>현용 휴대용 미사일 발사기는 작은 크기에도 화력은 떨어지지 않는 바늘형 초소형 미사일을 발사합니다. 이 바늘 초소형 미사일 덕에 미사일 발사기 운용병이 다른 병력의 도움 없이도 지속적인 화력을 가할 수 있을만큼 충분한 탄약을 휴대할 수 있습니다.</Gun_MissileLauncher.description>
+  <!--Bullet_AutoCannon-->
+  <Bullet_AutoCannon.label>속사포탄</Bullet_AutoCannon.label>
+  <!--Gun_AutoCannon-->
+  <Gun_AutoCannon.label>오토캐논</Gun_AutoCannon.label>
+  <Gun_AutoCannon.description>
+도수 운반식 오토캐논은 21세기 중반의 원시적 경장갑 차량들의 주무장을 가볍고 짧게 줄인 버전입니다. 아리아드나 기술자들은 그 크기를 줄이고 반동 억제 시스템을 재설계 하는데 성공했지만, 휴대성을 최대한 높이기 위해 수동 발사 매커니즘과 목측식 조준 체계를 사용하도록 재설계되었습니다. 겉으로 보기에는 구닥다리처럼 보여도 가장 중무장한 지상 병력마저 무력화 시킬 수 있을만큼 확실한 화력을 발휘합니다.</Gun_AutoCannon.description>
+</LanguageData>

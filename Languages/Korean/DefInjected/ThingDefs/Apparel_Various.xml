@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--[자동생성] 림월드 모드 번역 도우미 v1.7 by 가람이예요-->
+<LanguageData>
+  <!--Apparel_LightArmor-->
+  <Apparel_LightArmor.label>경량 방탄복</Apparel_LightArmor.label>
+  <Apparel_LightArmor.description>아리아드나군 표준 방탄복입니다.</Apparel_LightArmor.description>
+  <!--Apparel_Telnyashka-->
+  <Apparel_Telnyashka.label>텔냐쉬카</Apparel_Telnyashka.label>
+  <Apparel_Telnyashka.description>줄무니가 그어진 백색 내의입니다. 아리아드나군 텔냐쉬카는 타르타리 전단의 상징적인 복장입니다.</Apparel_Telnyashka.description>
+  <!--Apparel_ArmyFatigue-->
+  <Apparel_ArmyFatigue.label>군복</Apparel_ArmyFatigue.label>
+  <Apparel_ArmyFatigue.description>타르타리 전단의 제식 복장입니다.</Apparel_ArmyFatigue.description>
+  <!--Apparel_Cherkesska-->
+  <Apparel_Cherkesska.label>체르케스카</Apparel_Cherkesska.label>
+  <Apparel_Cherkesska.description>전설적인 "베테랑 카자크" 연대가 착용하는 이 테슘제 방호구는 아리아드나에서 가장 뛰어난 보호장비에 속합니다.</Apparel_Cherkesska.description>
+</LanguageData>

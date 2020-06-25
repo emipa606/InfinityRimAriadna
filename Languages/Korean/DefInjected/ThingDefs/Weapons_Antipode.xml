@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--[자동생성] 림월드 모드 번역 도우미 v1.7 by 가람이예요-->
+<LanguageData>
+  <!--Arrow_Antipode-->
+  <Arrow_Antipode.label>안티포드 화살</Arrow_Antipode.label>
+  <!--Bow_Antipode-->
+  <Bow_Antipode.label>안티포드 활</Bow_Antipode.label>
+  <Bow_Antipode.description>안티포드 전사들이 사용하는 강력한 리커브 보우입니다. 다른 활과 달리 장갑 관통 테슘제 화살을 쏩니다.</Bow_Antipode.description>
+  <!--AntipodeCCW-->
+  <AntipodeCCW.label>안티포드 칼날</AntipodeCCW.label>
+  <AntipodeCCW.description>안티포드 대전사들이 사용하는 거대한 칼입니다. 이 테슘 발린 칼날은 대부분의 장갑을 관통할 수 있습니다.</AntipodeCCW.description>
+</LanguageData>

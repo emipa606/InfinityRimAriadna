@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Antipode.label>antipode</Antipode.label>
+  <Antipode.corePart.parts.1.customLabel>left clavicle</Antipode.corePart.parts.1.customLabel>
+  <Antipode.corePart.parts.2.customLabel>right clavicle</Antipode.corePart.parts.2.customLabel>
+  <Antipode.corePart.parts.9.customLabel>left lung</Antipode.corePart.parts.9.customLabel>
+  <Antipode.corePart.parts.10.customLabel>right lung</Antipode.corePart.parts.10.customLabel>
+  <Antipode.corePart.parts.11.customLabel>left kidney</Antipode.corePart.parts.11.customLabel>
+  <Antipode.corePart.parts.12.customLabel>right kidney</Antipode.corePart.parts.12.customLabel>
+  <Antipode.corePart.parts.14.parts.0.parts.1.customLabel>left eye</Antipode.corePart.parts.14.parts.0.parts.1.customLabel>
+  <Antipode.corePart.parts.14.parts.0.parts.2.customLabel>right eye</Antipode.corePart.parts.14.parts.0.parts.2.customLabel>
+  <Antipode.corePart.parts.14.parts.0.parts.3.customLabel>left ear</Antipode.corePart.parts.14.parts.0.parts.3.customLabel>
+  <Antipode.corePart.parts.14.parts.0.parts.4.customLabel>right ear</Antipode.corePart.parts.14.parts.0.parts.4.customLabel>
+  <Antipode.corePart.parts.15.customLabel>left shoulder</Antipode.corePart.parts.15.customLabel>
+  <Antipode.corePart.parts.15.parts.0.customLabel>left arm</Antipode.corePart.parts.15.parts.0.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.0.customLabel>left humerus</Antipode.corePart.parts.15.parts.0.parts.0.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.1.customLabel>left radius</Antipode.corePart.parts.15.parts.0.parts.1.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.customLabel>left hand</Antipode.corePart.parts.15.parts.0.parts.2.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>left hand pinky</Antipode.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>left hand ring finger</Antipode.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>left hand middle finger</Antipode.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>left hand index finger</Antipode.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>
+  <Antipode.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>left hand thumb</Antipode.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>
+  <Antipode.corePart.parts.16.customLabel>right shoulder</Antipode.corePart.parts.16.customLabel>
+  <Antipode.corePart.parts.16.parts.0.customLabel>right arm</Antipode.corePart.parts.16.parts.0.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.0.customLabel>right humerus</Antipode.corePart.parts.16.parts.0.parts.0.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.1.customLabel>right radius</Antipode.corePart.parts.16.parts.0.parts.1.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.customLabel>right hand</Antipode.corePart.parts.16.parts.0.parts.2.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.parts.0.customLabel>right hand pinky</Antipode.corePart.parts.16.parts.0.parts.2.parts.0.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.parts.1.customLabel>right hand ring finger</Antipode.corePart.parts.16.parts.0.parts.2.parts.1.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.parts.2.customLabel>right hand middle finger</Antipode.corePart.parts.16.parts.0.parts.2.parts.2.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.parts.3.customLabel>right hand index finger</Antipode.corePart.parts.16.parts.0.parts.2.parts.3.customLabel>
+  <Antipode.corePart.parts.16.parts.0.parts.2.parts.4.customLabel>right hand thumb</Antipode.corePart.parts.16.parts.0.parts.2.parts.4.customLabel>
+  <Antipode.corePart.parts.17.customLabel>left leg</Antipode.corePart.parts.17.customLabel>
+  <Antipode.corePart.parts.17.parts.0.customLabel>left femur</Antipode.corePart.parts.17.parts.0.customLabel>
+  <Antipode.corePart.parts.17.parts.1.customLabel>left tibia</Antipode.corePart.parts.17.parts.1.customLabel>
+  <Antipode.corePart.parts.17.parts.2.customLabel>left foot</Antipode.corePart.parts.17.parts.2.customLabel>
+  <Antipode.corePart.parts.17.parts.2.parts.0.customLabel>left foot little toe</Antipode.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Antipode.corePart.parts.17.parts.2.parts.1.customLabel>left foot fourth toe</Antipode.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Antipode.corePart.parts.17.parts.2.parts.2.customLabel>left foot middle toe</Antipode.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Antipode.corePart.parts.17.parts.2.parts.3.customLabel>left foot second toe</Antipode.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Antipode.corePart.parts.17.parts.2.parts.4.customLabel>left foot big toe</Antipode.corePart.parts.17.parts.2.parts.4.customLabel>
+  <Antipode.corePart.parts.18.customLabel>right leg</Antipode.corePart.parts.18.customLabel>
+  <Antipode.corePart.parts.18.parts.0.customLabel>right femur</Antipode.corePart.parts.18.parts.0.customLabel>
+  <Antipode.corePart.parts.18.parts.1.customLabel>right tibia</Antipode.corePart.parts.18.parts.1.customLabel>
+  <Antipode.corePart.parts.18.parts.2.customLabel>right foot</Antipode.corePart.parts.18.parts.2.customLabel>
+  <Antipode.corePart.parts.18.parts.2.parts.0.customLabel>right foot little toe</Antipode.corePart.parts.18.parts.2.parts.0.customLabel>
+  <Antipode.corePart.parts.18.parts.2.parts.1.customLabel>right foot fourth toe</Antipode.corePart.parts.18.parts.2.parts.1.customLabel>
+  <Antipode.corePart.parts.18.parts.2.parts.2.customLabel>right foot middle toe</Antipode.corePart.parts.18.parts.2.parts.2.customLabel>
+  <Antipode.corePart.parts.18.parts.2.parts.3.customLabel>right foot second toe</Antipode.corePart.parts.18.parts.2.parts.3.customLabel>
+  <Antipode.corePart.parts.18.parts.2.parts.4.customLabel>right foot big toe</Antipode.corePart.parts.18.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

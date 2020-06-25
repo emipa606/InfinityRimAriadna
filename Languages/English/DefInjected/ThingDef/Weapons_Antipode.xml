@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arrow_Antipode.label>antipode arrow</Arrow_Antipode.label>
+
+  <Bow_Antipode.label>antipode bow</Bow_Antipode.label>
+  <Bow_Antipode.description>A powerful recurve bow of the Antipode warriors. Unlike other bow, it fires armor piercing Teseum coated arrow.</Bow_Antipode.description>
+
+  <AntipodeCCW.label>antipode blade</AntipodeCCW.label>
+  <AntipodeCCW.description>A great sword of the Antipode champions. This Teseum coated blade can penetrate almost every armor.</AntipodeCCW.description>
+  <AntipodeCCW.tools.0.label>handle</AntipodeCCW.tools.0.label>
+  <AntipodeCCW.tools.1.label>edge</AntipodeCCW.tools.1.label>
+
+
+</LanguageData>

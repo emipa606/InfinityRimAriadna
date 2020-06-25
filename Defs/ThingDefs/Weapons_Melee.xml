@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp">
+    <defName>MeleeWeapon_APKnife</defName>
+    <label>AP knife</label>
+    <description>The comparatively small blade of a knife makes it a last-resort weapon for a soldier. However, with Teseum coated blade, it can be a surprisingly lethal weapon.</description>
+    <graphicData>
+      <texPath>Things/A15/APKnife</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Autopistol</soundInteract>
+    <statBases>
+      <WorkToMake>8500</WorkToMake>
+      <Mass>0.5</Mass>
+    </statBases>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <costList>
+      <Teseum>10</Teseum>
+      <Steel>45</Steel>
+    </costList>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>blade</label>
+        <capacities>
+          <li>APCut</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.46</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp">
+    <defName>MeleeWeapon_APCCW</defName>
+    <label>AP CCW</label>
+    <description>Though often overlooked as an option, those who follow the Way of the Sword know that, at close range, a sharp blade can be as deadly as any high-tech alternative, especially with a Teseum coated blade.</description>
+    <graphicData>
+      <texPath>Things/A15/APCCW</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Autopistol</soundInteract>
+    <statBases>
+      <WorkToMake>10500</WorkToMake>
+      <Mass>0.9</Mass>
+    </statBases>
+    <equippedAngleOffset>-5</equippedAngleOffset>
+    <costList>
+      <Teseum>25</Teseum>
+      <Steel>75</Steel>
+    </costList>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>blade</label>
+        <capacities>
+          <li>APCut</li>
+        </capacities>
+        <power>18</power>
+        <cooldownTime>2.3</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>

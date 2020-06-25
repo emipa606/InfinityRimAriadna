@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IRA_Vodka.label>vodka</IRA_Vodka.label>
+  <IRA_Vodka.description>Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Excessive consumption can lead to alcohol addiction.</IRA_Vodka.description>
+  <IRA_Vodka.tools.0.label>bottle</IRA_Vodka.tools.0.label>
+  <IRA_Vodka.tools.1.label>neck</IRA_Vodka.tools.1.label>
+  <IRA_Vodka.ingestible.ingestCommandString>Drink {0}</IRA_Vodka.ingestible.ingestCommandString>
+  <IRA_Vodka.ingestible.ingestReportString>Drinking {0}.</IRA_Vodka.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -15,14 +15,10 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costList>
+      <Cloth>50</Cloth>
       <Steel>20</Steel>
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
-    <costStuffCount>50</costStuffCount>
-    <stuffCategories>
-      <li>Fabric</li>
-      <li>Leathery</li>
-    </stuffCategories>
     <statBases>
       <WorkToMake>9000</WorkToMake>
       <Mass>0.14</Mass>
@@ -75,13 +71,10 @@
       <MoveSpeed>-0.02</MoveSpeed>
     </equippedStatOffsets>
     <costList>
+      <Steel>60</Steel>
       <ComponentIndustrial>3</ComponentIndustrial>
       <Teseum>36</Teseum>
     </costList>
-    <stuffCategories>
-      <li>Metallic</li>
-    </stuffCategories>
-    <costStuffCount>60</costStuffCount>
     <generateCommonality>0.05</generateCommonality>
     <apparel>
       <bodyPartGroups>

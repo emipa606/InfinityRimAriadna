@@ -1,26 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AntipodeWarrior.label>antipode warrior</AntipodeWarrior.label>
   <AntipodeWarrior.labelPlural>antipode warriors</AntipodeWarrior.labelPlural>
   <AntipodeWarrior.labelMale>male antipode warrior</AntipodeWarrior.labelMale>
   <AntipodeWarrior.labelMalePlural>male antipode warriors</AntipodeWarrior.labelMalePlural>
   <AntipodeWarrior.labelFemale>female antipode warrior</AntipodeWarrior.labelFemale>
   <AntipodeWarrior.labelFemalePlural>female antipode warriors</AntipodeWarrior.labelFemalePlural>
-
   <AntipodeHunter.label>antipode hunter</AntipodeHunter.label>
   <AntipodeHunter.labelPlural>antipode hunters</AntipodeHunter.labelPlural>
   <AntipodeHunter.labelMale>male antipode hunter</AntipodeHunter.labelMale>
   <AntipodeHunter.labelMalePlural>male antipode hunters</AntipodeHunter.labelMalePlural>
   <AntipodeHunter.labelFemale>female antipode hunter</AntipodeHunter.labelFemale>
   <AntipodeHunter.labelFemalePlural>female antipode hunters</AntipodeHunter.labelFemalePlural>
-
   <AntipodeChampion.label>antipode champion</AntipodeChampion.label>
   <AntipodeChampion.labelPlural>antipode champions</AntipodeChampion.labelPlural>
   <AntipodeChampion.labelMale>male antipode champion</AntipodeChampion.labelMale>
   <AntipodeChampion.labelMalePlural>male antipode champions</AntipodeChampion.labelMalePlural>
   <AntipodeChampion.labelFemale>female antipode champion</AntipodeChampion.labelFemale>
   <AntipodeChampion.labelFemalePlural>female antipode champions</AntipodeChampion.labelFemalePlural>
-
-
 </LanguageData>

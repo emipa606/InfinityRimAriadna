@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Antipode.label>antipode</Antipode.label>
   <Antipode.corePart.parts.1.customLabel>left clavicle</Antipode.corePart.parts.1.customLabel>
   <Antipode.corePart.parts.2.customLabel>right clavicle</Antipode.corePart.parts.2.customLabel>
@@ -50,6 +49,4 @@
   <Antipode.corePart.parts.18.parts.2.parts.2.customLabel>right foot middle toe</Antipode.corePart.parts.18.parts.2.parts.2.customLabel>
   <Antipode.corePart.parts.18.parts.2.parts.3.customLabel>right foot second toe</Antipode.corePart.parts.18.parts.2.parts.3.customLabel>
   <Antipode.corePart.parts.18.parts.2.parts.4.customLabel>right foot big toe</Antipode.corePart.parts.18.parts.2.parts.4.customLabel>
-
-
 </LanguageData>

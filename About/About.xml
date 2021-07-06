@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Infinity Rim: Ariadna (Continued)</name>
   <packageId>Mlie.InfinityRimAriadna</packageId>
@@ -7,35 +7,52 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of rooki1s mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of rooki1s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=775703802
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/InfinityRimAriadna
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/InfinityRimAriadna][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Infinity Rim:
-Ariadna
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-"Ariadna was founded by the descendants of the first human colony ship, thought lost when it disappeared into a wormhole. Left to their own devices on a hostile, resource-poor planet, endurance and mettle had to make up for the lack of state-of-the-art technology.
+[b]Infinity Rim: [/b]
+[b]Ariadna[/b]
 
-Cossack, American, French and Scottish fought each other and they all fought the planet, and from all the fighting emerged Ariadna, where only the toughest survive.
+[i]“Ariadna was founded by the descendants of the first human colony ship, thought lost when it disappeared into a wormhole. Left to their own devices on a hostile, resource-poor planet, endurance and mettle had to make up for the lack of state-of-the-art technology.
 
-Welcome to Ariadna."
+Cossack, American, French and Scottish fought each other and they all fought the planet, and from all the fighting emerged Ariadna, where only the toughest survive. 
 
-Description:
-This mod adds weapons, armors, equiptments of the Ariadna, a faction of the Corvus belli’s tabletop skirmisher wargame Infinity(http://infinitythegame.com).
+Welcome to Ariadna.”[/i]
 
-Check the manual https://docs.google.com/document/d/15pd0gRMMsawo-oU3UBjDJwqY5443PuS_E_9Zw65Vt1M (Google Docs)
+[b]Description:[/b]
+This mod adds weapons, armors, equiptments of the Ariadna, a faction of the Corvus belli’s tabletop skirmisher wargame Infinity([url=http://infinitythegame.com]infinitythegame.com[/url]).
 
-Author/Mod Team
-rooki12k</description>
+[url=https://docs.google.com/document/d/15pd0gRMMsawo-oU3UBjDJwqY5443PuS_E_9Zw65Vt1M][b]Check the manual(Google Docs)[/b][/url]
+
+[b]Author/Mod Team[/b]
+rooki12k
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

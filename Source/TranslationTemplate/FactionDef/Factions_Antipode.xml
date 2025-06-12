@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antipode tribe -->
+  <AntipodeTribe.label>antipode tribe</AntipodeTribe.label>
+  <!-- EN: Antipodes are the native race of the planet Dawn. Because of the unfortunate first contact, most of them are being aggressive to humans. -->
+  <AntipodeTribe.description>Antipodes are the native race of the planet Dawn. Because of the unfortunate first contact, most of them are being aggressive to humans.</AntipodeTribe.description>
+  <!-- EN: an antipode tribe -->
+  <AntipodeTribe.fixedName>an antipode tribe</AntipodeTribe.fixedName>
+  <!-- EN: leader -->
+  <AntipodeTribe.leaderTitle>leader</AntipodeTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <AntipodeTribe.messageDefendersAttacking>{0} from {1} are attacking your {2}.</AntipodeTribe.messageDefendersAttacking>
+  <!-- EN: member -->
+  <AntipodeTribe.pawnSingular>member</AntipodeTribe.pawnSingular>
+  <!-- EN: antipodes -->
+  <AntipodeTribe.pawnsPlural>antipodes</AntipodeTribe.pawnsPlural>
+</LanguageData>

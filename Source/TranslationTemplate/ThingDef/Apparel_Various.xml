@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: army fatigue -->
+  <Apparel_ArmyFatigue.label>army fatigue</Apparel_ArmyFatigue.label>
+  <!-- EN: The official uniform of Tartary Army Corps(TAK). -->
+  <Apparel_ArmyFatigue.description>The official uniform of Tartary Army Corps(TAK).</Apparel_ArmyFatigue.description>
+  <!-- EN: cherkesska -->
+  <Apparel_Cherkesska.label>cherkesska</Apparel_Cherkesska.label>
+  <!-- EN: Worn by the legendary "Veteran kazaks" regiment, this teseum plated armor is a one of most advanced protective equipment in Ariadna. -->
+  <Apparel_Cherkesska.description>Worn by the legendary "Veteran kazaks" regiment, this teseum plated armor is a one of most advanced protective equipment in Ariadna.</Apparel_Cherkesska.description>
+  <!-- EN: light armor -->
+  <Apparel_LightArmor.label>light armor</Apparel_LightArmor.label>
+  <!-- EN: Standard issue body armor within the Ariadna force. -->
+  <Apparel_LightArmor.description>Standard issue body armor within the Ariadna force.</Apparel_LightArmor.description>
+  <!-- EN: telnyashka -->
+  <Apparel_Telnyashka.label>telnyashka</Apparel_Telnyashka.label>
+  <!-- EN: White undershirt horizontally striped in various colors, the Ariadnan telnyashka is an iconic uniform garment worn by the Tartary Army Corps. -->
+  <Apparel_Telnyashka.description>White undershirt horizontally striped in various colors, the Ariadnan telnyashka is an iconic uniform garment worn by the Tartary Army Corps.</Apparel_Telnyashka.description>
+</LanguageData>

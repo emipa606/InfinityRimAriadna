@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cherkesska helmet -->
+  <Apparel_CherkesskaHelmet.label>cherkesska helmet</Apparel_CherkesskaHelmet.label>
+  <!-- EN: This Teseum plated helmet can withstand most of small firearms fire. -->
+  <Apparel_CherkesskaHelmet.description>This Teseum plated helmet can withstand most of small firearms fire.</Apparel_CherkesskaHelmet.description>
+  <!-- EN: spetsnaz beret -->
+  <Apparel_SpetsnazBeret.label>spetsnaz beret</Apparel_SpetsnazBeret.label>
+  <!-- EN: A military beret with visor and symbol of Ariadna spetsnaz. -->
+  <Apparel_SpetsnazBeret.description>A military beret with visor and symbol of Ariadna spetsnaz.</Apparel_SpetsnazBeret.description>
+</LanguageData>

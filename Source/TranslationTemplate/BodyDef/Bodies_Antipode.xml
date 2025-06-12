@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antipode -->
+  <Antipode.label>antipode</Antipode.label>
+  <!-- EN: left clavicle -->
+  <Antipode.corePart.parts.left_clavicle.customLabel>left clavicle</Antipode.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <Antipode.corePart.parts.right_clavicle.customLabel>right clavicle</Antipode.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <Antipode.corePart.parts.left_lung.customLabel>left lung</Antipode.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Antipode.corePart.parts.right_lung.customLabel>right lung</Antipode.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Antipode.corePart.parts.left_kidney.customLabel>left kidney</Antipode.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Antipode.corePart.parts.right_kidney.customLabel>right kidney</Antipode.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Antipode.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Antipode.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Antipode.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Antipode.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Antipode.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</Antipode.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Antipode.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</Antipode.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Antipode.corePart.parts.left_shoulder.customLabel>left shoulder</Antipode.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.customLabel>left arm</Antipode.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>left humerus</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>left radius</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>left hand</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left hand pinky -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_pinky.customLabel>left hand pinky</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_pinky.customLabel>
+  <!-- EN: left hand ring finger -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_ring_finger.customLabel>left hand ring finger</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_ring_finger.customLabel>
+  <!-- EN: left hand middle finger -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_middle_finger.customLabel>left hand middle finger</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_middle_finger.customLabel>
+  <!-- EN: left hand index finger -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_index_finger.customLabel>left hand index finger</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_index_finger.customLabel>
+  <!-- EN: left hand thumb -->
+  <Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_thumb.customLabel>left hand thumb</Antipode.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_hand_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Antipode.corePart.parts.right_shoulder.customLabel>right shoulder</Antipode.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.customLabel>right arm</Antipode.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>right humerus</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>right radius</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>right hand</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right hand pinky -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_pinky.customLabel>right hand pinky</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_pinky.customLabel>
+  <!-- EN: right hand ring finger -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_ring_finger.customLabel>right hand ring finger</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_ring_finger.customLabel>
+  <!-- EN: right hand middle finger -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_middle_finger.customLabel>right hand middle finger</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_middle_finger.customLabel>
+  <!-- EN: right hand index finger -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_index_finger.customLabel>right hand index finger</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_index_finger.customLabel>
+  <!-- EN: right hand thumb -->
+  <Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_thumb.customLabel>right hand thumb</Antipode.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_hand_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Antipode.corePart.parts.left_leg.customLabel>left leg</Antipode.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Antipode.corePart.parts.left_leg.parts.left_femur.customLabel>left femur</Antipode.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Antipode.corePart.parts.left_leg.parts.left_tibia.customLabel>left tibia</Antipode.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Antipode.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left foot little toe -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_little_toe.customLabel>left foot little toe</Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_little_toe.customLabel>
+  <!-- EN: left foot fourth toe -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_fourth_toe.customLabel>left foot fourth toe</Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_fourth_toe.customLabel>
+  <!-- EN: left foot middle toe -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_middle_toe.customLabel>left foot middle toe</Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_middle_toe.customLabel>
+  <!-- EN: left foot second toe -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_second_toe.customLabel>left foot second toe</Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_second_toe.customLabel>
+  <!-- EN: left foot big toe -->
+  <Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_big_toe.customLabel>left foot big toe</Antipode.corePart.parts.left_leg.parts.left_foot.parts.left_foot_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Antipode.corePart.parts.right_leg.customLabel>right leg</Antipode.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Antipode.corePart.parts.right_leg.parts.right_femur.customLabel>right femur</Antipode.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Antipode.corePart.parts.right_leg.parts.right_tibia.customLabel>right tibia</Antipode.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Antipode.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right foot little toe -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_little_toe.customLabel>right foot little toe</Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_little_toe.customLabel>
+  <!-- EN: right foot fourth toe -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_fourth_toe.customLabel>right foot fourth toe</Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_fourth_toe.customLabel>
+  <!-- EN: right foot middle toe -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_middle_toe.customLabel>right foot middle toe</Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_middle_toe.customLabel>
+  <!-- EN: right foot second toe -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_second_toe.customLabel>right foot second toe</Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_second_toe.customLabel>
+  <!-- EN: right foot big toe -->
+  <Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_big_toe.customLabel>right foot big toe</Antipode.corePart.parts.right_leg.parts.right_foot.parts.right_foot_big_toe.customLabel>
+</LanguageData>

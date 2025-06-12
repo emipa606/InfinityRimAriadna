@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antipode champion -->
+  <AntipodeChampion.label>antipode champion</AntipodeChampion.label>
+  <AntipodeChampion.labelFemale />
+  <AntipodeChampion.labelFemalePlural />
+  <AntipodeChampion.labelMale />
+  <AntipodeChampion.labelMalePlural />
+  <AntipodeChampion.labelPlural />
+  <!-- EN: antipode hunter -->
+  <AntipodeHunter.label>antipode hunter</AntipodeHunter.label>
+  <AntipodeHunter.labelFemale />
+  <AntipodeHunter.labelFemalePlural />
+  <AntipodeHunter.labelMale />
+  <AntipodeHunter.labelMalePlural />
+  <AntipodeHunter.labelPlural />
+  <!-- EN: antipode warrior -->
+  <AntipodeWarrior.label>antipode warrior</AntipodeWarrior.label>
+  <AntipodeWarrior.labelFemale />
+  <AntipodeWarrior.labelFemalePlural />
+  <AntipodeWarrior.labelMale />
+  <AntipodeWarrior.labelMalePlural />
+  <AntipodeWarrior.labelPlural />
+</LanguageData>

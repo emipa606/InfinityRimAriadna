@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AP rifle bullet -->
+  <Bullet_APRifle.label>AP rifle bullet</Bullet_APRifle.label>
+  <!-- EN: sniper rifle bullet -->
+  <Bullet_APSniperRifle.label>sniper rifle bullet</Bullet_APSniperRifle.label>
+  <!-- EN: Assault pistol bullet -->
+  <Bullet_AssaultPistol.label>Assault pistol bullet</Bullet_AssaultPistol.label>
+  <!-- EN: auto cannon shell -->
+  <Bullet_AutoCannon.label>auto cannon shell</Bullet_AutoCannon.label>
+  <!-- EN: buck -->
+  <Bullet_BoardingShotgun.label>buck</Bullet_BoardingShotgun.label>
+  <!-- EN: chain shard -->
+  <Bullet_ChainRifle.label>chain shard</Bullet_ChainRifle.label>
+  <!-- EN: machine gun bullet -->
+  <Bullet_Hishchnik.label>machine gun bullet</Bullet_Hishchnik.label>
+  <!-- EN: missile -->
+  <Bullet_MissileLauncher.label>missile</Bullet_MissileLauncher.label>
+  <!-- EN: Molotok bullet -->
+  <Bullet_Molotok.label>Molotok bullet</Bullet_Molotok.label>
+  <!-- EN: sniper rifle bullet -->
+  <Bullet_Ohotnik.label>sniper rifle bullet</Bullet_Ohotnik.label>
+  <!-- EN: AP rifle -->
+  <Gun_APRifle.label>AP rifle</Gun_APRifle.label>
+  <!-- EN: Armor-piercing ammunition is frequently manufactured using Teseum, a costly neomaterial that is lightweight but very resistant to deformation, making it perfect for armor penetration. Teseum is the only reason why light weapons such as rifles can load and fire Armor-Piercing rounds effectively. -->
+  <Gun_APRifle.description>Armor-piercing ammunition is frequently manufactured using Teseum, a costly neomaterial that is lightweight but very resistant to deformation, making it perfect for armor penetration. Teseum is the only reason why light weapons such as rifles can load and fire Armor-Piercing rounds effectively.</Gun_APRifle.description>
+  <!-- EN: stock -->
+  <Gun_APRifle.tools.stock.label>stock</Gun_APRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_APRifle.tools.barrel.label>barrel</Gun_APRifle.tools.barrel.label>
+  <!-- EN: AP rifle -->
+  <Gun_APRifle.verbs.Verb_Shoot.label>AP rifle</Gun_APRifle.verbs.Verb_Shoot.label>
+  <!-- EN: AP sniper rifle -->
+  <Gun_APSniperRifle.label>AP sniper rifle</Gun_APSniperRifle.label>
+  <!-- EN: Each and every soldier ever deployed on Dawn, the Ariadnan home planet, has learned to fear their sharpshooters. Due to the proliferation of Sniper Rifles capable of using armor-piercing ammunition, not even heavily armored units are safe against them. All foreign troops know that at any given moment they might be the target of a sniper armed with one of these powerful guns, and the last thing they feel would be a projectile penetrating their personal armor like a hot knife through butter. -->
+  <Gun_APSniperRifle.description>Each and every soldier ever deployed on Dawn, the Ariadnan home planet, has learned to fear their sharpshooters. Due to the proliferation of Sniper Rifles capable of using armor-piercing ammunition, not even heavily armored units are safe against them. All foreign troops know that at any given moment they might be the target of a sniper armed with one of these powerful guns, and the last thing they feel would be a projectile penetrating their personal armor like a hot knife through butter.</Gun_APSniperRifle.description>
+  <!-- EN: stock -->
+  <Gun_APSniperRifle.tools.stock.label>stock</Gun_APSniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_APSniperRifle.tools.barrel.label>barrel</Gun_APSniperRifle.tools.barrel.label>
+  <!-- EN: AP sniper rifle -->
+  <Gun_APSniperRifle.verbs.Verb_Shoot.label>AP sniper rifle</Gun_APSniperRifle.verbs.Verb_Shoot.label>
+  <!-- EN: assault pistol -->
+  <Gun_AssaultPistol.label>assault pistol</Gun_AssaultPistol.label>
+  <!-- EN: The assault pistol is the evolution of conventional tactical handguns. Its reduced size and light weight, as well as a high penetration ability and large ammunition capacity, combines with its fully automatic fire to make this weapon the best choice for close combat. -->
+  <Gun_AssaultPistol.description>The assault pistol is the evolution of conventional tactical handguns. Its reduced size and light weight, as well as a high penetration ability and large ammunition capacity, combines with its fully automatic fire to make this weapon the best choice for close combat.</Gun_AssaultPistol.description>
+  <!-- EN: stock -->
+  <Gun_AssaultPistol.tools.stock.label>stock</Gun_AssaultPistol.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultPistol.tools.barrel.label>barrel</Gun_AssaultPistol.tools.barrel.label>
+  <!-- EN: assault pistol -->
+  <Gun_AssaultPistol.verbs.Verb_Shoot.label>assault pistol</Gun_AssaultPistol.verbs.Verb_Shoot.label>
+  <!-- EN: autocannon -->
+  <Gun_AutoCannon.label>autocannon</Gun_AutoCannon.label>
+  <!-- EN: The portable autocannon is a compact, lightweight version of the main weapon mounted on primitive light armored vehicles of the mid-21st century. Ariadnan technicians have been able to reduce the size of the feed and report suppression systems. To achieve maximum portability, this cannon has been designed with a manual firing mechanism and an optical aiming system. Despite its archaic look, this weapon packs an undeniable punch that can neutralize even the heaviest ground units. -->
+  <Gun_AutoCannon.description>The portable autocannon is a compact, lightweight version of the main weapon mounted on primitive light armored vehicles of the mid-21st century. Ariadnan technicians have been able to reduce the size of the feed and report suppression systems. To achieve maximum portability, this cannon has been designed with a manual firing mechanism and an optical aiming system. Despite its archaic look, this weapon packs an undeniable punch that can neutralize even the heaviest ground units.</Gun_AutoCannon.description>
+  <!-- EN: stock -->
+  <Gun_AutoCannon.tools.stock.label>stock</Gun_AutoCannon.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AutoCannon.tools.barrel.label>barrel</Gun_AutoCannon.tools.barrel.label>
+  <!-- EN: autocannon -->
+  <Gun_AutoCannon.verbs.Verb_Shoot.label>autocannon</Gun_AutoCannon.verbs.Verb_Shoot.label>
+  <!-- EN: boarding shotgun -->
+  <Gun_BoardingShotgun.label>boarding shotgun</Gun_BoardingShotgun.label>
+  <!-- EN: The boarding shotgun was developed according to specs defined by naval assault units, who needed a close-quarters firearm capable of working reliably in thin-atmosphere environment and even in a vacuum. -->
+  <Gun_BoardingShotgun.description>The boarding shotgun was developed according to specs defined by naval assault units, who needed a close-quarters firearm capable of working reliably in thin-atmosphere environment and even in a vacuum.</Gun_BoardingShotgun.description>
+  <!-- EN: stock -->
+  <Gun_BoardingShotgun.tools.stock.label>stock</Gun_BoardingShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoardingShotgun.tools.barrel.label>barrel</Gun_BoardingShotgun.tools.barrel.label>
+  <!-- EN: boarding shotgun -->
+  <Gun_BoardingShotgun.verbs.Verb_Shoot.label>boarding shotgun</Gun_BoardingShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: chain rifle -->
+  <Gun_ChainRifle.label>chain rifle</Gun_ChainRifle.label>
+  <!-- EN: The chain rifle uses a length of chain as ammunition, firing it as a cone of red-hot shrapnel via an electric mechanism. It was developed to arm untrained militias in third world campaigns. A chain rifle's wide firing arc makes it devastating at short ranges, where missing is almost impossible. The low production cost and deadly effectiveness of this weapon made it a resounding success in conflicts all over the worlds. -->
+  <Gun_ChainRifle.description>The chain rifle uses a length of chain as ammunition, firing it as a cone of red-hot shrapnel via an electric mechanism. It was developed to arm untrained militias in third world campaigns. A chain rifle's wide firing arc makes it devastating at short ranges, where missing is almost impossible. The low production cost and deadly effectiveness of this weapon made it a resounding success in conflicts all over the worlds.</Gun_ChainRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChainRifle.tools.stock.label>stock</Gun_ChainRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainRifle.tools.barrel.label>barrel</Gun_ChainRifle.tools.barrel.label>
+  <!-- EN: chain rifle -->
+  <Gun_ChainRifle.verbs.Verb_Shoot.label>chain rifle</Gun_ChainRifle.verbs.Verb_Shoot.label>
+  <!-- EN: heavy pistol -->
+  <Gun_HeavyPistol.label>heavy pistol</Gun_HeavyPistol.label>
+  <!-- EN: The term "heavy pistol" refers to a diversity of large-caliber handguns, sometimes used for big-game hunting, and to the short-range secondary weapons used for close quarters combat in enclosed areas. -->
+  <Gun_HeavyPistol.description>The term "heavy pistol" refers to a diversity of large-caliber handguns, sometimes used for big-game hunting, and to the short-range secondary weapons used for close quarters combat in enclosed areas.</Gun_HeavyPistol.description>
+  <!-- EN: stock -->
+  <Gun_HeavyPistol.tools.stock.label>stock</Gun_HeavyPistol.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HeavyPistol.tools.barrel.label>barrel</Gun_HeavyPistol.tools.barrel.label>
+  <!-- EN: heavy pistol -->
+  <Gun_HeavyPistol.verbs.Verb_Shoot.label>heavy pistol</Gun_HeavyPistol.verbs.Verb_Shoot.label>
+  <!-- EN: hishchnik -->
+  <Gun_Hishchnik.label>hishchnik</Gun_Hishchnik.label>
+  <!-- EN: The standard Ariadnan machine gun, the famous AKNovy Hishchnik (Russian for “Predator”) is considered by some to be the "mother of all support weapons", the range, destructive power and high rate of fire of this machine gun makes it a force to be reckoned with on any battlefield. -->
+  <Gun_Hishchnik.description>The standard Ariadnan machine gun, the famous AKNovy Hishchnik (Russian for “Predator”) is considered by some to be the "mother of all support weapons", the range, destructive power and high rate of fire of this machine gun makes it a force to be reckoned with on any battlefield.</Gun_Hishchnik.description>
+  <!-- EN: stock -->
+  <Gun_Hishchnik.tools.stock.label>stock</Gun_Hishchnik.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Hishchnik.tools.barrel.label>barrel</Gun_Hishchnik.tools.barrel.label>
+  <!-- EN: hishchnik -->
+  <Gun_Hishchnik.verbs.Verb_Shoot.label>hishchnik</Gun_Hishchnik.verbs.Verb_Shoot.label>
+  <!-- EN: missile launcher -->
+  <Gun_MissileLauncher.label>missile launcher</Gun_MissileLauncher.label>
+  <!-- EN: Modern portable missile launchers fire needle projectiles, micromissiles whose small size does not offset their offensive capabilities. Needle micromissiles give ML operators the chance to carry their own spare ammunition for sustained fire without depending on another soldier to reload. -->
+  <Gun_MissileLauncher.description>Modern portable missile launchers fire needle projectiles, micromissiles whose small size does not offset their offensive capabilities. Needle micromissiles give ML operators the chance to carry their own spare ammunition for sustained fire without depending on another soldier to reload.</Gun_MissileLauncher.description>
+  <!-- EN: stock -->
+  <Gun_MissileLauncher.tools.stock.label>stock</Gun_MissileLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MissileLauncher.tools.barrel.label>barrel</Gun_MissileLauncher.tools.barrel.label>
+  <!-- EN: missile launcher -->
+  <Gun_MissileLauncher.verbs.Verb_Shoot.label>missile launcher</Gun_MissileLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: Molotok -->
+  <Gun_Molotok.label>Molotok</Gun_Molotok.label>
+  <!-- EN: The Molotok (Russian for “Hammer”) is a light machine gun of compact design, with a short barrel, foldable butt and a chamber adapted for lighter ammunition, created to cover the requirements of airborne and special operations units. -->
+  <Gun_Molotok.description>The Molotok (Russian for “Hammer”) is a light machine gun of compact design, with a short barrel, foldable butt and a chamber adapted for lighter ammunition, created to cover the requirements of airborne and special operations units.</Gun_Molotok.description>
+  <!-- EN: stock -->
+  <Gun_Molotok.tools.stock.label>stock</Gun_Molotok.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Molotok.tools.barrel.label>barrel</Gun_Molotok.tools.barrel.label>
+  <!-- EN: Molotok -->
+  <Gun_Molotok.verbs.Verb_Shoot.label>Molotok</Gun_Molotok.verbs.Verb_Shoot.label>
+  <!-- EN: Ohotnik -->
+  <Gun_Ohotnik.label>Ohotnik</Gun_Ohotnik.label>
+  <!-- EN: The Ohotnik is the military version of an Ariadnan big-game hunting rifle. It is more potent than a conventional assault rifle, but its rate of fire is lower. What gives the Ohotnik an edge is its ammunition, manufactured using Teseum for fearsome armor-piercing capabilities. The stock of an Ohotnik is made out of wood from trees native to Ariadna, very lightweight and durable, and the bore is covered in Teseum. -->
+  <Gun_Ohotnik.description>The Ohotnik is the military version of an Ariadnan big-game hunting rifle. It is more potent than a conventional assault rifle, but its rate of fire is lower. What gives the Ohotnik an edge is its ammunition, manufactured using Teseum for fearsome armor-piercing capabilities. The stock of an Ohotnik is made out of wood from trees native to Ariadna, very lightweight and durable, and the bore is covered in Teseum.</Gun_Ohotnik.description>
+  <!-- EN: stock -->
+  <Gun_Ohotnik.tools.stock.label>stock</Gun_Ohotnik.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Ohotnik.tools.barrel.label>barrel</Gun_Ohotnik.tools.barrel.label>
+  <!-- EN: Ohotnik -->
+  <Gun_Ohotnik.verbs.Verb_Shoot.label>Ohotnik</Gun_Ohotnik.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antipode -->
+  <Race_Antipode.label>antipode</Race_Antipode.label>
+  <!-- EN: The native race of the planet Dawn, the Antipodes are large intelligent canine creature. -->
+  <Race_Antipode.description>The native race of the planet Dawn, the Antipodes are large intelligent canine creature.</Race_Antipode.description>
+  <!-- EN: left hand -->
+  <Race_Antipode.tools.left_hand.label>left hand</Race_Antipode.tools.left_hand.label>
+  <!-- EN: right hand -->
+  <Race_Antipode.tools.right_hand.label>right hand</Race_Antipode.tools.right_hand.label>
+  <!-- EN: teeth -->
+  <Race_Antipode.tools.teeth.label>teeth</Race_Antipode.tools.teeth.label>
+  <!-- EN: head -->
+  <Race_Antipode.tools.head.label>head</Race_Antipode.tools.head.label>
+</LanguageData>

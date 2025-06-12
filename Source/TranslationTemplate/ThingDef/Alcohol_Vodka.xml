@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: vodka -->
+  <IRA_Vodka.label>vodka</IRA_Vodka.label>
+  <!-- EN: Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Excessive consumption can lead to alcohol addiction. -->
+  <IRA_Vodka.description>Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Excessive consumption can lead to alcohol addiction.</IRA_Vodka.description>
+  <!-- EN: Drink {0} -->
+  <IRA_Vodka.ingestible.ingestCommandString>Drink {0}</IRA_Vodka.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <IRA_Vodka.ingestible.ingestReportString>Drinking {0}.</IRA_Vodka.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <IRA_Vodka.tools.bottle.label>bottle</IRA_Vodka.tools.bottle.label>
+  <!-- EN: neck -->
+  <IRA_Vodka.tools.neck.label>neck</IRA_Vodka.tools.neck.label>
+</LanguageData>

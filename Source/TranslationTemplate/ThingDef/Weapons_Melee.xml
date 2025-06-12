@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AP CCW -->
+  <MeleeWeapon_APCCW.label>AP CCW</MeleeWeapon_APCCW.label>
+  <!-- EN: Though often overlooked as an option, those who follow the Way of the Sword know that, at close range, a sharp blade can be as deadly as any high-tech alternative, especially with a Teseum coated blade. -->
+  <MeleeWeapon_APCCW.description>Though often overlooked as an option, those who follow the Way of the Sword know that, at close range, a sharp blade can be as deadly as any high-tech alternative, especially with a Teseum coated blade.</MeleeWeapon_APCCW.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_APCCW.tools.handle.label>handle</MeleeWeapon_APCCW.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_APCCW.tools.blade.label>blade</MeleeWeapon_APCCW.tools.blade.label>
+  <!-- EN: AP knife -->
+  <MeleeWeapon_APKnife.label>AP knife</MeleeWeapon_APKnife.label>
+  <!-- EN: The comparatively small blade of a knife makes it a last-resort weapon for a soldier. However, with Teseum coated blade, it can be a surprisingly lethal weapon. -->
+  <MeleeWeapon_APKnife.description>The comparatively small blade of a knife makes it a last-resort weapon for a soldier. However, with Teseum coated blade, it can be a surprisingly lethal weapon.</MeleeWeapon_APKnife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_APKnife.tools.handle.label>handle</MeleeWeapon_APKnife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_APKnife.tools.blade.label>blade</MeleeWeapon_APKnife.tools.blade.label>
+</LanguageData>
